@@ -1,0 +1,1 @@
+INSERT INTO railway.rsvp (name, email, phone, confirmation_date, comments, food_type) VALUES ('Kenneth', 'k@k.com', '12345678', '2023-04-20 00:00:00', 'test', 'Vegan');
